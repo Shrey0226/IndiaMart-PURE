@@ -383,17 +383,6 @@ const GrowthInsights = ({ data }: { data: any }) => {
                 </div>
              </div>
           </div>
-
-          <button 
-            disabled={isLeader}
-            className={`mt-6 w-full py-3 rounded-xl font-black text-[10px] uppercase tracking-widest transition-all flex items-center justify-center gap-2 ${
-              isLeader 
-              ? "bg-slate-50 text-slate-300 cursor-not-allowed border border-slate-100" 
-              : "bg-orange-600 hover:bg-orange-700 text-white shadow-lg shadow-orange-100"
-            }`}
-          >
-            {isLeader ? "MAX PLAN ACTIVE" : `UPGRADE TO ${recommendedPlan.toUpperCase()}`}
-          </button>
         </div>
 
         {/* Card 2: MCAT Traffic Opportunity */}
