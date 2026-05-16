@@ -151,7 +151,7 @@ app.post('/api/analyze', async (req, res) => {
       messages: [
         {
           role: 'system',
-          content: 'You are a McKinsey-style marketplace intelligence engine for IndiaMART. Your goal is to transform raw seller data into strategic business intelligence. Return ONLY a valid JSON object matching the requested schema.'
+          content: 'You are a McKinsey-style marketplace intelligence engine for IndiaMART. Your goal is to transform raw seller data into strategic business intelligence. Return ONLY a valid JSON object matching the requested schema. Ensure all strings are properly escaped for JSON.'
         },
         {
           role: 'user',
@@ -162,8 +162,23 @@ app.post('/api/analyze', async (req, res) => {
     });
 
     const content = response.choices[0].message.content;
-    const analysis = JSON.parse(content || '{}');
-    res.json(analysis);
+    let cleanContent = (content || '{}').trim();
+    
+    // Safety check for markdown code blocks
+    if (cleanContent.startsWith('```')) {
+      const match = cleanContent.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+      if (match && match[1]) {
+        cleanContent = match[1].trim();
+      }
+    }
+
+    try {
+      const analysis = JSON.parse(cleanContent);
+      res.json(analysis);
+    } catch (parseError) {
+      console.error('JSON Parse Error. Content:', cleanContent);
+      throw parseError;
+    }
   } catch (error: any) {
     console.error('AI Analysis Error:', error);
     res.status(500).json({ error: 'AI analysis failed', details: error.message });

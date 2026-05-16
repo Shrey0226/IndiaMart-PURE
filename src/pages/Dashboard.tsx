@@ -526,14 +526,24 @@ const GrowthInsights = ({ data }: { data: any }) => {
   );
 };
 
-const RiskMeter = ({ score, risk }: { score: number, risk: string }) => {
+const GaugeIndicator = ({ 
+  value, 
+  label, 
+  color, 
+  subLabel 
+}: { 
+  value: number, 
+  label: string, 
+  color: string, 
+  subLabel?: string 
+}) => {
   const data = [
-    { value: score, fill: risk === 'High' ? '#ef4444' : risk === 'Medium' ? '#f59e0b' : '#10b981' },
-    { value: 100 - score, fill: '#1e293b' }
+    { value, fill: color },
+    { value: 100 - value, fill: '#1e293b' }
   ];
 
   return (
-    <div className="relative w-full h-40 flex flex-col items-center justify-center">
+    <div className="relative w-full h-32 flex flex-col items-center justify-center">
       <ResponsiveContainer width="100%" height="100%">
         <PieChart>
           <Pie
@@ -542,8 +552,8 @@ const RiskMeter = ({ score, risk }: { score: number, risk: string }) => {
             cy="100%"
             startAngle={180}
             endAngle={0}
-            innerRadius={60}
-            outerRadius={85}
+            innerRadius={45}
+            outerRadius={65}
             paddingAngle={0}
             dataKey="value"
             stroke="none"
@@ -554,11 +564,16 @@ const RiskMeter = ({ score, risk }: { score: number, risk: string }) => {
           </Pie>
         </PieChart>
       </ResponsiveContainer>
-      <div className="absolute bottom-2 text-center">
-        <p className="text-3xl font-black text-white">{Number(score).toFixed(2)}%</p>
-        <p className={`text-[10px] font-black uppercase tracking-widest ${risk === 'High' ? 'text-red-400' : risk === 'Medium' ? 'text-amber-400' : 'text-emerald-400'}`}>
-          {risk} CHURN RISK
-        </p>
+      <div className="absolute bottom-1 text-center">
+        <p className="text-xl font-black text-white">{Number(value).toFixed(1)}%</p>
+        <p className="text-[8px] font-black text-slate-500 uppercase tracking-[0.2em] leading-none mb-1">{label}</p>
+        {subLabel && (
+          <p className={`text-[9px] font-black uppercase tracking-widest ${
+            subLabel === 'High' ? 'text-red-400' : subLabel === 'Medium' ? 'text-amber-400' : 'text-emerald-400'
+          }`}>
+            {subLabel}
+          </p>
+        )}
       </div>
     </div>
   );
@@ -570,7 +585,7 @@ const McatTrendGraph = ({ monthlyData }: { monthlyData: MonthlyData }) => {
   const data = Object.entries(monthlyData).map(([month, metrics]) => ({
     name: month.split('-')[0], // Just the month part for X-axis
     unique_buylead_sold: metrics.unique_buylead_sold,
-    buyleads: metrics.buylead_approved,
+    "BL approved": metrics.buylead_approved,
     fullMonth: month
   }));
 
@@ -616,7 +631,7 @@ const McatTrendGraph = ({ monthlyData }: { monthlyData: MonthlyData }) => {
           />
           <Area 
             type="monotone" 
-            dataKey="buyleads" 
+            dataKey="BL approved" 
             stroke="#f97316" 
             strokeWidth={2}
             fillOpacity={1} 
@@ -650,6 +665,7 @@ const McatDetailModal = ({ mcat, onClose }: { mcat: McatData, onClose: () => voi
 
   return (
     <motion.div 
+      key="mcat-modal"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
@@ -865,6 +881,15 @@ export const Dashboard = () => {
           </div>
 
           <div className="flex items-center gap-4">
+            <a 
+              href="https://docs.google.com/spreadsheets/d/1ib26aOOE504o2LS2E9RMbiLPBaEyyPBcMQE21DzDcBE/edit?gid=0#gid=0" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hidden lg:flex items-center gap-2 px-3 py-2 bg-emerald-50 border border-emerald-100 rounded-lg text-[10px] font-black text-emerald-600 hover:bg-emerald-100 transition-all uppercase tracking-widest shadow-sm active:scale-95"
+            >
+              <BarChart3 size={12} />
+              Test Data Sheet
+            </a>
             <form onSubmit={handleSearch} className="relative hidden md:block">
               <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={16} />
               <input 
@@ -914,6 +939,7 @@ export const Dashboard = () => {
         <AnimatePresence mode="wait">
           {error && (
             <motion.div 
+              key="error-box"
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -10 }}
@@ -928,11 +954,11 @@ export const Dashboard = () => {
           )}
 
           {!data && !loading && !error && (
-            <InteractiveDemo onStartTrial={(id) => handleSearch(undefined, id)} />
+            <InteractiveDemo key="interactive-demo" onStartTrial={(id) => handleSearch(undefined, id)} />
           )}
 
           {data && (
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            <div key="seller-dashboard" className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
               {/* Left Column: Dashboard Content */}
               <div className="lg:col-span-8 space-y-8 pb-20">
                 
@@ -973,8 +999,8 @@ export const Dashboard = () => {
                 <div className="bg-white p-6 rounded-3xl border border-slate-100 shadow-sm">
                   <SectionHeader title="Preferred MCAT monthly performance Analysis" subtitle="Trend based demand monitoring" icon={Activity} />
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    {data.mcats.map((mcat: McatData, idx: number) => (
-                      <div key={idx} className="p-5 rounded-[2rem] bg-slate-50 border border-slate-100 relative group overflow-hidden hover:border-orange-200 transition-all">
+                    {data.mcats.map((mcat: McatData) => (
+                      <div key={mcat.mcat_id} className="p-5 rounded-[2rem] bg-slate-50 border border-slate-100 relative group overflow-hidden hover:border-orange-200 transition-all">
                         <div className="absolute top-0 right-0 w-24 h-24 bg-orange-500/5 blur-2xl -mr-10 -mt-10 group-hover:bg-orange-500/10 transition-all" />
                         <div className="flex justify-between items-start mb-2 relative z-10">
                           <div className="flex-1">
@@ -1009,9 +1035,9 @@ export const Dashboard = () => {
                   <div className="bg-white p-6 rounded-3xl border border-slate-100 shadow-sm h-full">
                     <SectionHeader title="Grievances" subtitle="Against Seller" icon={AlertTriangle} />
                     <div className="space-y-3 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
-                      {ticketsAgainstGrouped.length > 0 ? ticketsAgainstGrouped.map((group, index) => {
+                      {ticketsAgainstGrouped.length > 0 ? ticketsAgainstGrouped.map((group) => {
                         return (
-                          <div key={`against-group-${index}`} className="p-4 rounded-2xl bg-white border border-slate-100 hover:border-orange-200 transition-all shadow-sm flex justify-between items-center group">
+                          <div key={`against-group-${group.type}`} className="p-4 rounded-2xl bg-white border border-slate-100 hover:border-orange-200 transition-all shadow-sm flex justify-between items-center group">
                             <div>
                                <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1">Ticket Category</p>
                                <h4 className="text-sm font-black text-slate-800">{group.type}</h4>
@@ -1036,9 +1062,9 @@ export const Dashboard = () => {
                   <div className="bg-white p-6 rounded-3xl border border-slate-100 shadow-sm h-full">
                     <SectionHeader title="VOC" subtitle="By seller" icon={Mail} />
                     <div className="space-y-3 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
-                      {ticketsByGrouped.length > 0 ? ticketsByGrouped.map((group, index) => {
+                      {ticketsByGrouped.length > 0 ? ticketsByGrouped.map((group) => {
                         return (
-                          <div key={`by-group-${index}`} className="p-4 rounded-2xl bg-slate-50/50 border border-slate-100 hover:border-blue-200 transition-all shadow-sm flex justify-between items-center group">
+                          <div key={`by-group-${group.type}`} className="p-4 rounded-2xl bg-slate-50/50 border border-slate-100 hover:border-blue-200 transition-all shadow-sm flex justify-between items-center group">
                             <div>
                                <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1">Ticket Category</p>
                                <h4 className="text-sm font-black text-slate-800">{group.type}</h4>
@@ -1151,8 +1177,24 @@ export const Dashboard = () => {
                           </div>
                         ) : (
                           <>
-                            {/* Dominant Health Score */}
-                            <RiskMeter score={analysis.satisfactionScore} risk={analysis.churnRisk} />
+                            {/* Health Indicators */}
+                            <div className="grid grid-cols-2 gap-3 mt-4">
+                              <div className="bg-slate-900/40 p-4 rounded-3xl border border-slate-800 shadow-inner">
+                                <GaugeIndicator 
+                                  value={analysis.satisfactionScore} 
+                                  label="Satisfaction" 
+                                  color={analysis.satisfactionScore > 70 ? '#10b981' : analysis.satisfactionScore > 40 ? '#f59e0b' : '#ef4444'} 
+                                />
+                              </div>
+                              <div className="bg-slate-900/40 p-4 rounded-3xl border border-slate-800 shadow-inner">
+                                <GaugeIndicator 
+                                  value={100 - analysis.retentionProbability} 
+                                  label="Churn Risk" 
+                                  color={analysis.churnRisk === 'High' ? '#ef4444' : analysis.churnRisk === 'Medium' ? '#f59e0b' : '#10b981'}
+                                  subLabel={analysis.churnRisk}
+                                />
+                              </div>
+                            </div>
 
                             {/* Accordions */}
                             <div className="mt-8 space-y-1">
@@ -1269,6 +1311,7 @@ export const Dashboard = () => {
         )}
         {viewingTicket && (
           <motion.div 
+            key="ticket-modal"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
