@@ -1,0 +1,3257 @@
+{
+  "GLID: 463094": {
+    "mcat_1": {
+      "mcat_id": 55984,
+      "mcat_name": "PVC Fills",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 343,
+          "buylead_approved": 13,
+          "unique_buylead_sold": 13,
+          "NI_Hides": 20
+        },
+        "feb-26": {
+          "pageviews": 267,
+          "buylead_approved": 12,
+          "unique_buylead_sold": 12,
+          "NI_Hides": 18
+        },
+        "Mar-26": {
+          "pageviews": 260,
+          "buylead_approved": 15,
+          "unique_buylead_sold": 15,
+          "NI_Hides": 28
+        },
+        "April-26": {
+          "pageviews": 360,
+          "buylead_approved": 23,
+          "unique_buylead_sold": 23,
+          "NI_Hides": 59
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 26810,
+      "mcat_name": "Dosing System",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 574,
+          "buylead_approved": 23,
+          "unique_buylead_sold": 23,
+          "NI_Hides": 16
+        },
+        "feb-26": {
+          "pageviews": 596,
+          "buylead_approved": 25,
+          "unique_buylead_sold": 25,
+          "NI_Hides": 15
+        },
+        "Mar-26": {
+          "pageviews": 712,
+          "buylead_approved": 43,
+          "unique_buylead_sold": 42,
+          "NI_Hides": 56
+        },
+        "April-26": {
+          "pageviews": 651,
+          "buylead_approved": 35,
+          "unique_buylead_sold": 34,
+          "NI_Hides": 48
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 42147,
+      "mcat_name": "PSA Nitrogen Gas Plants",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 325,
+          "buylead_approved": 22,
+          "unique_buylead_sold": 22,
+          "NI_Hides": 5
+        },
+        "feb-26": {
+          "pageviews": 445,
+          "buylead_approved": 34,
+          "unique_buylead_sold": 34,
+          "NI_Hides": 18
+        },
+        "Mar-26": {
+          "pageviews": 531,
+          "buylead_approved": 21,
+          "unique_buylead_sold": 21,
+          "NI_Hides": 3
+        },
+        "April-26": {
+          "pageviews": 536,
+          "buylead_approved": 27,
+          "unique_buylead_sold": 27,
+          "NI_Hides": 6
+        }
+      }
+    }
+  },
+  "GLID: 760604": {
+    "mcat_1": {
+      "mcat_id": 18,
+      "mcat_name": "Aluminum Sheets",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 10635,
+          "buylead_approved": 426,
+          "unique_buylead_sold": 425,
+          "NI_Hides": 517
+        },
+        "feb-26": {
+          "pageviews": 10010,
+          "buylead_approved": 416,
+          "unique_buylead_sold": 413,
+          "NI_Hides": 609
+        },
+        "Mar-26": {
+          "pageviews": 8619,
+          "buylead_approved": 407,
+          "unique_buylead_sold": 408,
+          "NI_Hides": 735
+        },
+        "April-26": {
+          "pageviews": 7335,
+          "buylead_approved": 391,
+          "unique_buylead_sold": 390,
+          "NI_Hides": 843
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 4548,
+      "mcat_name": "BOPP Tapes",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 8662,
+          "buylead_approved": 889,
+          "unique_buylead_sold": 890,
+          "NI_Hides": 800
+        },
+        "feb-26": {
+          "pageviews": 10889,
+          "buylead_approved": 929,
+          "unique_buylead_sold": 926,
+          "NI_Hides": 902
+        },
+        "Mar-26": {
+          "pageviews": 9558,
+          "buylead_approved": 947,
+          "unique_buylead_sold": 933,
+          "NI_Hides": 861
+        },
+        "April-26": {
+          "pageviews": 9552,
+          "buylead_approved": 1028,
+          "unique_buylead_sold": 1025,
+          "NI_Hides": 972
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 149032,
+      "mcat_name": "Cello Tape",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 9764,
+          "buylead_approved": 541,
+          "unique_buylead_sold": 517,
+          "NI_Hides": 719
+        },
+        "feb-26": {
+          "pageviews": 8918,
+          "buylead_approved": 440,
+          "unique_buylead_sold": 421,
+          "NI_Hides": 706
+        },
+        "Mar-26": {
+          "pageviews": 8576,
+          "buylead_approved": 624,
+          "unique_buylead_sold": 590,
+          "NI_Hides": 917
+        },
+        "April-26": {
+          "pageviews": 8756,
+          "buylead_approved": 713,
+          "unique_buylead_sold": 687,
+          "NI_Hides": 929
+        }
+      }
+    }
+  },
+  "GLID: 1792718": {
+    "mcat_1": {
+      "mcat_id": 3706,
+      "mcat_name": "Chain Pulley Block",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 13431,
+          "buylead_approved": 777,
+          "unique_buylead_sold": 788,
+          "NI_Hides": 1298
+        },
+        "feb-26": {
+          "pageviews": 14813,
+          "buylead_approved": 758,
+          "unique_buylead_sold": 759,
+          "NI_Hides": 930
+        },
+        "Mar-26": {
+          "pageviews": 14692,
+          "buylead_approved": 808,
+          "unique_buylead_sold": 805,
+          "NI_Hides": 923
+        },
+        "April-26": {
+          "pageviews": 11728,
+          "buylead_approved": 670,
+          "unique_buylead_sold": 673,
+          "NI_Hides": 696
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 1923825": {
+    "mcat_1": {
+      "mcat_id": 42792,
+      "mcat_name": "PVC Coated Copper Tube",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 914,
+          "buylead_approved": 50,
+          "unique_buylead_sold": 42,
+          "NI_Hides": 16
+        },
+        "feb-26": {
+          "pageviews": 1317,
+          "buylead_approved": 46,
+          "unique_buylead_sold": 36,
+          "NI_Hides": 12
+        },
+        "Mar-26": {
+          "pageviews": 352,
+          "buylead_approved": 23,
+          "unique_buylead_sold": 20,
+          "NI_Hides": 7
+        },
+        "April-26": {
+          "pageviews": 1638,
+          "buylead_approved": 59,
+          "unique_buylead_sold": 45,
+          "NI_Hides": 7
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 2286498": {
+    "mcat_1": {
+      "mcat_id": 5526,
+      "mcat_name": "Car Shampoos",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3882,
+          "buylead_approved": 374,
+          "unique_buylead_sold": 359,
+          "NI_Hides": 168
+        },
+        "feb-26": {
+          "pageviews": 3745,
+          "buylead_approved": 382,
+          "unique_buylead_sold": 324,
+          "NI_Hides": 137
+        },
+        "Mar-26": {
+          "pageviews": 4446,
+          "buylead_approved": 380,
+          "unique_buylead_sold": 355,
+          "NI_Hides": 97
+        },
+        "April-26": {
+          "pageviews": 4630,
+          "buylead_approved": 371,
+          "unique_buylead_sold": 351,
+          "NI_Hides": 101
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 2745020": {
+    "mcat_1": {
+      "mcat_id": 11878,
+      "mcat_name": "Garbage and Waste Bags",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 9494,
+          "buylead_approved": 769,
+          "unique_buylead_sold": 718,
+          "NI_Hides": 363
+        },
+        "feb-26": {
+          "pageviews": 8938,
+          "buylead_approved": 687,
+          "unique_buylead_sold": 634,
+          "NI_Hides": 412
+        },
+        "Mar-26": {
+          "pageviews": 8529,
+          "buylead_approved": 752,
+          "unique_buylead_sold": 666,
+          "NI_Hides": 315
+        },
+        "April-26": {
+          "pageviews": 8964,
+          "buylead_approved": 894,
+          "unique_buylead_sold": 773,
+          "NI_Hides": 318
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 3406636": {
+    "mcat_1": {
+      "mcat_id": 42352,
+      "mcat_name": "Hair Transplantation",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 156,
+          "buylead_approved": 6,
+          "unique_buylead_sold": 2,
+          "NI_Hides": 1
+        },
+        "feb-26": {
+          "pageviews": 127,
+          "buylead_approved": 10,
+          "unique_buylead_sold": 8,
+          "NI_Hides": 2
+        },
+        "Mar-26": {
+          "pageviews": 266,
+          "buylead_approved": 18,
+          "unique_buylead_sold": 11,
+          "NI_Hides": 3
+        },
+        "April-26": {
+          "pageviews": 221,
+          "buylead_approved": 18,
+          "unique_buylead_sold": 10,
+          "NI_Hides": 0
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 3609473": {
+    "mcat_1": {
+      "mcat_id": 574,
+      "mcat_name": "Industrial Crucibles",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 404,
+          "buylead_approved": 27,
+          "unique_buylead_sold": 27,
+          "NI_Hides": 10
+        },
+        "feb-26": {
+          "pageviews": 441,
+          "buylead_approved": 30,
+          "unique_buylead_sold": 28,
+          "NI_Hides": 14
+        },
+        "Mar-26": {
+          "pageviews": 403,
+          "buylead_approved": 25,
+          "unique_buylead_sold": 22,
+          "NI_Hides": 13
+        },
+        "April-26": {
+          "pageviews": 410,
+          "buylead_approved": 16,
+          "unique_buylead_sold": 16,
+          "NI_Hides": 9
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 4216558": {
+    "mcat_1": {
+      "mcat_id": 10802,
+      "mcat_name": "Human Anatomical Models",
+      "ni_count": 8,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 6217,
+          "buylead_approved": 182,
+          "unique_buylead_sold": 169,
+          "NI_Hides": 57
+        },
+        "feb-26": {
+          "pageviews": 6036,
+          "buylead_approved": 236,
+          "unique_buylead_sold": 230,
+          "NI_Hides": 102
+        },
+        "Mar-26": {
+          "pageviews": 6038,
+          "buylead_approved": 211,
+          "unique_buylead_sold": 208,
+          "NI_Hides": 50
+        },
+        "April-26": {
+          "pageviews": 5870,
+          "buylead_approved": 208,
+          "unique_buylead_sold": 209,
+          "NI_Hides": 104
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 1003,
+      "mcat_name": "Glass Tubes",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1204,
+          "buylead_approved": 82,
+          "unique_buylead_sold": 59,
+          "NI_Hides": 38
+        },
+        "feb-26": {
+          "pageviews": 1107,
+          "buylead_approved": 60,
+          "unique_buylead_sold": 42,
+          "NI_Hides": 27
+        },
+        "Mar-26": {
+          "pageviews": 1018,
+          "buylead_approved": 75,
+          "unique_buylead_sold": 60,
+          "NI_Hides": 40
+        },
+        "April-26": {
+          "pageviews": 1469,
+          "buylead_approved": 109,
+          "unique_buylead_sold": 84,
+          "NI_Hides": 165
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 28809,
+      "mcat_name": "Gold Powders",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 576,
+          "buylead_approved": 55,
+          "unique_buylead_sold": 40,
+          "NI_Hides": 9
+        },
+        "feb-26": {
+          "pageviews": 500,
+          "buylead_approved": 52,
+          "unique_buylead_sold": 32,
+          "NI_Hides": 12
+        },
+        "Mar-26": {
+          "pageviews": 591,
+          "buylead_approved": 60,
+          "unique_buylead_sold": 40,
+          "NI_Hides": 26
+        },
+        "April-26": {
+          "pageviews": 473,
+          "buylead_approved": 40,
+          "unique_buylead_sold": 20,
+          "NI_Hides": 21
+        }
+      }
+    }
+  },
+  "GLID: 7687767": {
+    "mcat_1": {
+      "mcat_id": 179008,
+      "mcat_name": "Daikin Split Air Conditioners",
+      "ni_count": 8,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 13791,
+          "buylead_approved": 866,
+          "unique_buylead_sold": 793,
+          "NI_Hides": 515
+        },
+        "feb-26": {
+          "pageviews": 34106,
+          "buylead_approved": 1899,
+          "unique_buylead_sold": 1533,
+          "NI_Hides": 485
+        },
+        "Mar-26": {
+          "pageviews": 24451,
+          "buylead_approved": 1474,
+          "unique_buylead_sold": 1070,
+          "NI_Hides": 217
+        },
+        "April-26": {
+          "pageviews": 18981,
+          "buylead_approved": 1214,
+          "unique_buylead_sold": 858,
+          "NI_Hides": 163
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 179011,
+      "mcat_name": "O General Split Air Conditioners",
+      "ni_count": 7,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1942,
+          "buylead_approved": 124,
+          "unique_buylead_sold": 109,
+          "NI_Hides": 29
+        },
+        "feb-26": {
+          "pageviews": 4004,
+          "buylead_approved": 238,
+          "unique_buylead_sold": 173,
+          "NI_Hides": 38
+        },
+        "Mar-26": {
+          "pageviews": 6411,
+          "buylead_approved": 385,
+          "unique_buylead_sold": 263,
+          "NI_Hides": 52
+        },
+        "April-26": {
+          "pageviews": 8687,
+          "buylead_approved": 589,
+          "unique_buylead_sold": 360,
+          "NI_Hides": 58
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 179010,
+      "mcat_name": "LG Split Air Conditioners",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1833,
+          "buylead_approved": 121,
+          "unique_buylead_sold": 96,
+          "NI_Hides": 55
+        },
+        "feb-26": {
+          "pageviews": 2535,
+          "buylead_approved": 145,
+          "unique_buylead_sold": 99,
+          "NI_Hides": 30
+        },
+        "Mar-26": {
+          "pageviews": 5248,
+          "buylead_approved": 255,
+          "unique_buylead_sold": 173,
+          "NI_Hides": 38
+        },
+        "April-26": {
+          "pageviews": 7214,
+          "buylead_approved": 382,
+          "unique_buylead_sold": 167,
+          "NI_Hides": 27
+        }
+      }
+    }
+  },
+  "GLID: 13481860": {
+    "mcat_1": {
+      "mcat_id": 31984,
+      "mcat_name": "Men Vest",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1676,
+          "buylead_approved": 93,
+          "unique_buylead_sold": 48,
+          "NI_Hides": 8
+        },
+        "feb-26": {
+          "pageviews": 1694,
+          "buylead_approved": 113,
+          "unique_buylead_sold": 36,
+          "NI_Hides": 17
+        },
+        "Mar-26": {
+          "pageviews": 2131,
+          "buylead_approved": 161,
+          "unique_buylead_sold": 68,
+          "NI_Hides": 16
+        },
+        "April-26": {
+          "pageviews": 1840,
+          "buylead_approved": 145,
+          "unique_buylead_sold": 64,
+          "NI_Hides": 12
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 178234,
+      "mcat_name": "Jodhpuri Suits",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 6637,
+          "buylead_approved": 257,
+          "unique_buylead_sold": 68,
+          "NI_Hides": 46
+        },
+        "feb-26": {
+          "pageviews": 6117,
+          "buylead_approved": 266,
+          "unique_buylead_sold": 67,
+          "NI_Hides": 28
+        },
+        "Mar-26": {
+          "pageviews": 5405,
+          "buylead_approved": 187,
+          "unique_buylead_sold": 52,
+          "NI_Hides": 12
+        },
+        "April-26": {
+          "pageviews": 7255,
+          "buylead_approved": 282,
+          "unique_buylead_sold": 94,
+          "NI_Hides": 47
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 14348518": {
+    "mcat_1": {
+      "mcat_id": 8367,
+      "mcat_name": "Safety Shoes",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 11448,
+          "buylead_approved": 619,
+          "unique_buylead_sold": 573,
+          "NI_Hides": 840
+        },
+        "feb-26": {
+          "pageviews": 8455,
+          "buylead_approved": 491,
+          "unique_buylead_sold": 455,
+          "NI_Hides": 552
+        },
+        "Mar-26": {
+          "pageviews": 8238,
+          "buylead_approved": 504,
+          "unique_buylead_sold": 460,
+          "NI_Hides": 641
+        },
+        "April-26": {
+          "pageviews": 9917,
+          "buylead_approved": 504,
+          "unique_buylead_sold": 465,
+          "NI_Hides": 487
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 49929,
+      "mcat_name": "Adult Underpad",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 275,
+          "buylead_approved": 25,
+          "unique_buylead_sold": 25,
+          "NI_Hides": 6
+        },
+        "feb-26": {
+          "pageviews": 312,
+          "buylead_approved": 34,
+          "unique_buylead_sold": 30,
+          "NI_Hides": 16
+        },
+        "Mar-26": {
+          "pageviews": 568,
+          "buylead_approved": 45,
+          "unique_buylead_sold": 40,
+          "NI_Hides": 9
+        },
+        "April-26": {
+          "pageviews": 575,
+          "buylead_approved": 33,
+          "unique_buylead_sold": 29,
+          "NI_Hides": 11
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 81086,
+      "mcat_name": "Safety Jacket",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3453,
+          "buylead_approved": 323,
+          "unique_buylead_sold": 318,
+          "NI_Hides": 654
+        },
+        "feb-26": {
+          "pageviews": 7050,
+          "buylead_approved": 447,
+          "unique_buylead_sold": 431,
+          "NI_Hides": 929
+        },
+        "Mar-26": {
+          "pageviews": 7746,
+          "buylead_approved": 492,
+          "unique_buylead_sold": 473,
+          "NI_Hides": 907
+        },
+        "April-26": {
+          "pageviews": 7468,
+          "buylead_approved": 485,
+          "unique_buylead_sold": 470,
+          "NI_Hides": 964
+        }
+      }
+    }
+  },
+  "GLID: 15471507": {
+    "mcat_1": {
+      "mcat_id": 2646,
+      "mcat_name": "Umbrella",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3598,
+          "buylead_approved": 318,
+          "unique_buylead_sold": 226,
+          "NI_Hides": 254
+        },
+        "feb-26": {
+          "pageviews": 3651,
+          "buylead_approved": 407,
+          "unique_buylead_sold": 300,
+          "NI_Hides": 449
+        },
+        "Mar-26": {
+          "pageviews": 6526,
+          "buylead_approved": 689,
+          "unique_buylead_sold": 504,
+          "NI_Hides": 717
+        },
+        "April-26": {
+          "pageviews": 10050,
+          "buylead_approved": 1120,
+          "unique_buylead_sold": 785,
+          "NI_Hides": 1474
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 370,
+      "mcat_name": "Auto Seat Covers",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 800,
+          "buylead_approved": 43,
+          "unique_buylead_sold": 12,
+          "NI_Hides": 15
+        },
+        "feb-26": {
+          "pageviews": 826,
+          "buylead_approved": 66,
+          "unique_buylead_sold": 10,
+          "NI_Hides": 9
+        },
+        "Mar-26": {
+          "pageviews": 1039,
+          "buylead_approved": 68,
+          "unique_buylead_sold": 12,
+          "NI_Hides": 1
+        },
+        "April-26": {
+          "pageviews": 809,
+          "buylead_approved": 60,
+          "unique_buylead_sold": 10,
+          "NI_Hides": 2
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 64736,
+      "mcat_name": "Wheel Cap",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 5486,
+          "buylead_approved": 586,
+          "unique_buylead_sold": 60,
+          "NI_Hides": 29
+        },
+        "feb-26": {
+          "pageviews": 5195,
+          "buylead_approved": 533,
+          "unique_buylead_sold": 62,
+          "NI_Hides": 23
+        },
+        "Mar-26": {
+          "pageviews": 5098,
+          "buylead_approved": 508,
+          "unique_buylead_sold": 61,
+          "NI_Hides": 38
+        },
+        "April-26": {
+          "pageviews": 4553,
+          "buylead_approved": 473,
+          "unique_buylead_sold": 68,
+          "NI_Hides": 29
+        }
+      }
+    }
+  },
+  "GLID: 18990956": {
+    "mcat_1": {
+      "mcat_id": 7835,
+      "mcat_name": "Stainless Steel Wire Mesh",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 47462,
+          "buylead_approved": 1467,
+          "unique_buylead_sold": 1432,
+          "NI_Hides": 1760
+        },
+        "feb-26": {
+          "pageviews": 44749,
+          "buylead_approved": 1281,
+          "unique_buylead_sold": 1251,
+          "NI_Hides": 1097
+        },
+        "Mar-26": {
+          "pageviews": 41928,
+          "buylead_approved": 1350,
+          "unique_buylead_sold": 1289,
+          "NI_Hides": 1465
+        },
+        "April-26": {
+          "pageviews": 21573,
+          "buylead_approved": 827,
+          "unique_buylead_sold": 817,
+          "NI_Hides": 689
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 127549,
+      "mcat_name": "Poultry Curtains",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2498,
+          "buylead_approved": 129,
+          "unique_buylead_sold": 122,
+          "NI_Hides": 46
+        },
+        "feb-26": {
+          "pageviews": 1900,
+          "buylead_approved": 140,
+          "unique_buylead_sold": 133,
+          "NI_Hides": 65
+        },
+        "Mar-26": {
+          "pageviews": 1565,
+          "buylead_approved": 141,
+          "unique_buylead_sold": 122,
+          "NI_Hides": 61
+        },
+        "April-26": {
+          "pageviews": 1544,
+          "buylead_approved": 153,
+          "unique_buylead_sold": 95,
+          "NI_Hides": 45
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 23264573": {
+    "mcat_1": {
+      "mcat_id": 96511,
+      "mcat_name": "Vitamin E Soft Capsule",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 5018,
+          "buylead_approved": 167,
+          "unique_buylead_sold": 109,
+          "NI_Hides": 83
+        },
+        "feb-26": {
+          "pageviews": 5101,
+          "buylead_approved": 188,
+          "unique_buylead_sold": 117,
+          "NI_Hides": 121
+        },
+        "Mar-26": {
+          "pageviews": 4823,
+          "buylead_approved": 193,
+          "unique_buylead_sold": 125,
+          "NI_Hides": 105
+        },
+        "April-26": {
+          "pageviews": 4659,
+          "buylead_approved": 152,
+          "unique_buylead_sold": 113,
+          "NI_Hides": 90
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 143364,
+      "mcat_name": "Ayurvedic Digestive Syrups",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 8123,
+          "buylead_approved": 710,
+          "unique_buylead_sold": 432,
+          "NI_Hides": 681
+        },
+        "feb-26": {
+          "pageviews": 9197,
+          "buylead_approved": 762,
+          "unique_buylead_sold": 418,
+          "NI_Hides": 414
+        },
+        "Mar-26": {
+          "pageviews": 9418,
+          "buylead_approved": 800,
+          "unique_buylead_sold": 429,
+          "NI_Hides": 689
+        },
+        "April-26": {
+          "pageviews": 8070,
+          "buylead_approved": 728,
+          "unique_buylead_sold": 437,
+          "NI_Hides": 573
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 26619436": {
+    "mcat_1": {
+      "mcat_id": 81236,
+      "mcat_name": "Steering Wheel Accessories",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 205,
+          "buylead_approved": 16,
+          "unique_buylead_sold": 3,
+          "NI_Hides": 1
+        },
+        "feb-26": {
+          "pageviews": 237,
+          "buylead_approved": 25,
+          "unique_buylead_sold": 2,
+          "NI_Hides": 1
+        },
+        "Mar-26": {
+          "pageviews": 238,
+          "buylead_approved": 19,
+          "unique_buylead_sold": 3,
+          "NI_Hides": 0
+        },
+        "April-26": {
+          "pageviews": 270,
+          "buylead_approved": 15,
+          "unique_buylead_sold": 3,
+          "NI_Hides": 0
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 28629338": {
+    "mcat_1": {
+      "mcat_id": 16924,
+      "mcat_name": "Laminate Sheets",
+      "ni_count": 4,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 8453,
+          "buylead_approved": 260,
+          "unique_buylead_sold": 233,
+          "NI_Hides": 72
+        },
+        "feb-26": {
+          "pageviews": 8785,
+          "buylead_approved": 385,
+          "unique_buylead_sold": 329,
+          "NI_Hides": 69
+        },
+        "Mar-26": {
+          "pageviews": 9245,
+          "buylead_approved": 404,
+          "unique_buylead_sold": 338,
+          "NI_Hides": 138
+        },
+        "April-26": {
+          "pageviews": 9440,
+          "buylead_approved": 411,
+          "unique_buylead_sold": 362,
+          "NI_Hides": 186
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 186440,
+      "mcat_name": "Polycarbonate Diamond Sheet",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1180,
+          "buylead_approved": 63,
+          "unique_buylead_sold": 50,
+          "NI_Hides": 27
+        },
+        "feb-26": {
+          "pageviews": 1001,
+          "buylead_approved": 64,
+          "unique_buylead_sold": 52,
+          "NI_Hides": 34
+        },
+        "Mar-26": {
+          "pageviews": 1157,
+          "buylead_approved": 81,
+          "unique_buylead_sold": 62,
+          "NI_Hides": 19
+        },
+        "April-26": {
+          "pageviews": 1471,
+          "buylead_approved": 88,
+          "unique_buylead_sold": 66,
+          "NI_Hides": 18
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 33318115": {
+    "mcat_1": {
+      "mcat_id": 73948,
+      "mcat_name": "Electric Room Heater",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 22896,
+          "buylead_approved": 1314,
+          "unique_buylead_sold": 569,
+          "NI_Hides": 1422
+        },
+        "feb-26": {
+          "pageviews": 1780,
+          "buylead_approved": 110,
+          "unique_buylead_sold": 49,
+          "NI_Hides": 113
+        },
+        "Mar-26": {
+          "pageviews": 2285,
+          "buylead_approved": 293,
+          "unique_buylead_sold": 77,
+          "NI_Hides": 97
+        },
+        "April-26": {
+          "pageviews": 1387,
+          "buylead_approved": 113,
+          "unique_buylead_sold": 36,
+          "NI_Hides": 33
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 94633,
+      "mcat_name": "Water Heater Parts",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2957,
+          "buylead_approved": 140,
+          "unique_buylead_sold": 16,
+          "NI_Hides": 8
+        },
+        "feb-26": {
+          "pageviews": 1622,
+          "buylead_approved": 92,
+          "unique_buylead_sold": 13,
+          "NI_Hides": 17
+        },
+        "Mar-26": {
+          "pageviews": 1315,
+          "buylead_approved": 75,
+          "unique_buylead_sold": 16,
+          "NI_Hides": 15
+        },
+        "April-26": {
+          "pageviews": 857,
+          "buylead_approved": 59,
+          "unique_buylead_sold": 13,
+          "NI_Hides": 12
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 42985633": {
+    "mcat_1": {
+      "mcat_id": 444899,
+      "mcat_name": "Sildenafil Tablets",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 40876,
+          "buylead_approved": 1392,
+          "unique_buylead_sold": 911,
+          "NI_Hides": 1145
+        },
+        "feb-26": {
+          "pageviews": 29267,
+          "buylead_approved": 1484,
+          "unique_buylead_sold": 887,
+          "NI_Hides": 829
+        },
+        "Mar-26": {
+          "pageviews": 29897,
+          "buylead_approved": 1621,
+          "unique_buylead_sold": 971,
+          "NI_Hides": 1236
+        },
+        "April-26": {
+          "pageviews": 28851,
+          "buylead_approved": 1633,
+          "unique_buylead_sold": 966,
+          "NI_Hides": 1255
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 445776,
+      "mcat_name": "Sildenafil Oral Jelly",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 19220,
+          "buylead_approved": 1068,
+          "unique_buylead_sold": 970,
+          "NI_Hides": 773
+        },
+        "feb-26": {
+          "pageviews": 17842,
+          "buylead_approved": 949,
+          "unique_buylead_sold": 871,
+          "NI_Hides": 473
+        },
+        "Mar-26": {
+          "pageviews": 18963,
+          "buylead_approved": 1115,
+          "unique_buylead_sold": 1019,
+          "NI_Hides": 900
+        },
+        "April-26": {
+          "pageviews": 17393,
+          "buylead_approved": 1064,
+          "unique_buylead_sold": 934,
+          "NI_Hides": 946
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 650291,
+      "mcat_name": "Testosterone Enanthate Injection",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 18019,
+          "buylead_approved": 1134,
+          "unique_buylead_sold": 926,
+          "NI_Hides": 646
+        },
+        "feb-26": {
+          "pageviews": 19776,
+          "buylead_approved": 1104,
+          "unique_buylead_sold": 884,
+          "NI_Hides": 631
+        },
+        "Mar-26": {
+          "pageviews": 22592,
+          "buylead_approved": 1406,
+          "unique_buylead_sold": 1169,
+          "NI_Hides": 1498
+        },
+        "April-26": {
+          "pageviews": 21516,
+          "buylead_approved": 1375,
+          "unique_buylead_sold": 1107,
+          "NI_Hides": 1669
+        }
+      }
+    }
+  },
+  "GLID: 46606382": {
+    "mcat_1": {
+      "mcat_id": 3291,
+      "mcat_name": "Aluminium Alloy Ingots",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2512,
+          "buylead_approved": 265,
+          "unique_buylead_sold": 245,
+          "NI_Hides": 999
+        },
+        "feb-26": {
+          "pageviews": 2118,
+          "buylead_approved": 258,
+          "unique_buylead_sold": 240,
+          "NI_Hides": 1042
+        },
+        "Mar-26": {
+          "pageviews": 2727,
+          "buylead_approved": 359,
+          "unique_buylead_sold": 324,
+          "NI_Hides": 1388
+        },
+        "April-26": {
+          "pageviews": 2835,
+          "buylead_approved": 320,
+          "unique_buylead_sold": 276,
+          "NI_Hides": 1428
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 26034,
+      "mcat_name": "Copper Bolts",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 280,
+          "buylead_approved": 18,
+          "unique_buylead_sold": 18,
+          "NI_Hides": 23
+        },
+        "feb-26": {
+          "pageviews": 275,
+          "buylead_approved": 13,
+          "unique_buylead_sold": 12,
+          "NI_Hides": 15
+        },
+        "Mar-26": {
+          "pageviews": 253,
+          "buylead_approved": 22,
+          "unique_buylead_sold": 22,
+          "NI_Hides": 30
+        },
+        "April-26": {
+          "pageviews": 252,
+          "buylead_approved": 18,
+          "unique_buylead_sold": 18,
+          "NI_Hides": 17
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 144504,
+      "mcat_name": "Aluminium Cable Scrap",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3724,
+          "buylead_approved": 310,
+          "unique_buylead_sold": 162,
+          "NI_Hides": 330
+        },
+        "feb-26": {
+          "pageviews": 3111,
+          "buylead_approved": 282,
+          "unique_buylead_sold": 147,
+          "NI_Hides": 369
+        },
+        "Mar-26": {
+          "pageviews": 3133,
+          "buylead_approved": 254,
+          "unique_buylead_sold": 138,
+          "NI_Hides": 328
+        },
+        "April-26": {
+          "pageviews": 3657,
+          "buylead_approved": 302,
+          "unique_buylead_sold": 122,
+          "NI_Hides": 371
+        }
+      }
+    }
+  },
+  "GLID: 56123829": {
+    "mcat_1": {
+      "mcat_id": 32799,
+      "mcat_name": "Mini Projector",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 12079,
+          "buylead_approved": 819,
+          "unique_buylead_sold": 374,
+          "NI_Hides": 413
+        },
+        "feb-26": {
+          "pageviews": 4356,
+          "buylead_approved": 462,
+          "unique_buylead_sold": 258,
+          "NI_Hides": 301
+        },
+        "Mar-26": {
+          "pageviews": 4923,
+          "buylead_approved": 543,
+          "unique_buylead_sold": 269,
+          "NI_Hides": 316
+        },
+        "April-26": {
+          "pageviews": 4163,
+          "buylead_approved": 464,
+          "unique_buylead_sold": 204,
+          "NI_Hides": 315
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 189317,
+      "mcat_name": "LED TV Repairing Services",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 9485,
+          "buylead_approved": 727,
+          "unique_buylead_sold": 72,
+          "NI_Hides": 40
+        },
+        "feb-26": {
+          "pageviews": 8570,
+          "buylead_approved": 633,
+          "unique_buylead_sold": 60,
+          "NI_Hides": 28
+        },
+        "Mar-26": {
+          "pageviews": 11750,
+          "buylead_approved": 829,
+          "unique_buylead_sold": 40,
+          "NI_Hides": 40
+        },
+        "April-26": {
+          "pageviews": 9379,
+          "buylead_approved": 740,
+          "unique_buylead_sold": 56,
+          "NI_Hides": 25
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 87924,
+      "mcat_name": "Recruitment Service",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1776,
+          "buylead_approved": 428,
+          "unique_buylead_sold": 256,
+          "NI_Hides": 36
+        },
+        "feb-26": {
+          "pageviews": 1852,
+          "buylead_approved": 415,
+          "unique_buylead_sold": 207,
+          "NI_Hides": 26
+        },
+        "Mar-26": {
+          "pageviews": 2515,
+          "buylead_approved": 505,
+          "unique_buylead_sold": 223,
+          "NI_Hides": 76
+        },
+        "April-26": {
+          "pageviews": 2385,
+          "buylead_approved": 351,
+          "unique_buylead_sold": 184,
+          "NI_Hides": 42
+        }
+      }
+    }
+  },
+  "GLID: 63235302": {
+    "mcat_1": {
+      "mcat_id": 11290,
+      "mcat_name": "Ladies Salwar Suits",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 9460,
+          "buylead_approved": 647,
+          "unique_buylead_sold": 430,
+          "NI_Hides": 138
+        },
+        "feb-26": {
+          "pageviews": 10689,
+          "buylead_approved": 735,
+          "unique_buylead_sold": 439,
+          "NI_Hides": 85
+        },
+        "Mar-26": {
+          "pageviews": 12771,
+          "buylead_approved": 740,
+          "unique_buylead_sold": 408,
+          "NI_Hides": 126
+        },
+        "April-26": {
+          "pageviews": 10866,
+          "buylead_approved": 623,
+          "unique_buylead_sold": 363,
+          "NI_Hides": 86
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 220508,
+      "mcat_name": "Ladies Designer Nighty",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 5019,
+          "buylead_approved": 392,
+          "unique_buylead_sold": 311,
+          "NI_Hides": 84
+        },
+        "feb-26": {
+          "pageviews": 4869,
+          "buylead_approved": 334,
+          "unique_buylead_sold": 213,
+          "NI_Hides": 49
+        },
+        "Mar-26": {
+          "pageviews": 16095,
+          "buylead_approved": 467,
+          "unique_buylead_sold": 270,
+          "NI_Hides": 79
+        },
+        "April-26": {
+          "pageviews": 11647,
+          "buylead_approved": 473,
+          "unique_buylead_sold": 279,
+          "NI_Hides": 60
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 65273982": {
+    "mcat_1": {
+      "mcat_id": 29161,
+      "mcat_name": "Galvanized Iron Pipes",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 20181,
+          "buylead_approved": 1251,
+          "unique_buylead_sold": 1228,
+          "NI_Hides": 2999
+        },
+        "feb-26": {
+          "pageviews": 22349,
+          "buylead_approved": 1299,
+          "unique_buylead_sold": 1254,
+          "NI_Hides": 2214
+        },
+        "Mar-26": {
+          "pageviews": 18506,
+          "buylead_approved": 1098,
+          "unique_buylead_sold": 1073,
+          "NI_Hides": 1507
+        },
+        "April-26": {
+          "pageviews": 17551,
+          "buylead_approved": 1153,
+          "unique_buylead_sold": 1105,
+          "NI_Hides": 2553
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 69022668": {
+    "mcat_1": {
+      "mcat_id": 181714,
+      "mcat_name": "Cotton Canvas Bag",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 4345,
+          "buylead_approved": 226,
+          "unique_buylead_sold": 188,
+          "NI_Hides": 109
+        },
+        "feb-26": {
+          "pageviews": 3594,
+          "buylead_approved": 221,
+          "unique_buylead_sold": 170,
+          "NI_Hides": 191
+        },
+        "Mar-26": {
+          "pageviews": 4645,
+          "buylead_approved": 255,
+          "unique_buylead_sold": 194,
+          "NI_Hides": 265
+        },
+        "April-26": {
+          "pageviews": 2909,
+          "buylead_approved": 230,
+          "unique_buylead_sold": 186,
+          "NI_Hides": 287
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 81915863": {
+    "mcat_1": {
+      "mcat_id": 118261,
+      "mcat_name": "Antidote",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 936,
+          "buylead_approved": 72,
+          "unique_buylead_sold": 22,
+          "NI_Hides": 6
+        },
+        "feb-26": {
+          "pageviews": 775,
+          "buylead_approved": 70,
+          "unique_buylead_sold": 26,
+          "NI_Hides": 10
+        },
+        "Mar-26": {
+          "pageviews": 777,
+          "buylead_approved": 51,
+          "unique_buylead_sold": 29,
+          "NI_Hides": 4
+        },
+        "April-26": {
+          "pageviews": 919,
+          "buylead_approved": 79,
+          "unique_buylead_sold": 36,
+          "NI_Hides": 7
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 154801,
+      "mcat_name": "Steroid Injections",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 20177,
+          "buylead_approved": 917,
+          "unique_buylead_sold": 596,
+          "NI_Hides": 938
+        },
+        "feb-26": {
+          "pageviews": 21697,
+          "buylead_approved": 816,
+          "unique_buylead_sold": 548,
+          "NI_Hides": 875
+        },
+        "Mar-26": {
+          "pageviews": 21385,
+          "buylead_approved": 803,
+          "unique_buylead_sold": 519,
+          "NI_Hides": 890
+        },
+        "April-26": {
+          "pageviews": 19607,
+          "buylead_approved": 801,
+          "unique_buylead_sold": 545,
+          "NI_Hides": 1351
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 160837,
+      "mcat_name": "Probiotic Sachets",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1019,
+          "buylead_approved": 55,
+          "unique_buylead_sold": 12,
+          "NI_Hides": 8
+        },
+        "feb-26": {
+          "pageviews": 1282,
+          "buylead_approved": 77,
+          "unique_buylead_sold": 21,
+          "NI_Hides": 12
+        },
+        "Mar-26": {
+          "pageviews": 1545,
+          "buylead_approved": 76,
+          "unique_buylead_sold": 23,
+          "NI_Hides": 16
+        },
+        "April-26": {
+          "pageviews": 1637,
+          "buylead_approved": 84,
+          "unique_buylead_sold": 23,
+          "NI_Hides": 31
+        }
+      }
+    }
+  },
+  "GLID: 92706139": {
+    "mcat_1": {
+      "mcat_id": 4163,
+      "mcat_name": "Baby Blankets",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1643,
+          "buylead_approved": 72,
+          "unique_buylead_sold": 56,
+          "NI_Hides": 10
+        },
+        "feb-26": {
+          "pageviews": 1244,
+          "buylead_approved": 95,
+          "unique_buylead_sold": 84,
+          "NI_Hides": 18
+        },
+        "Mar-26": {
+          "pageviews": 1228,
+          "buylead_approved": 76,
+          "unique_buylead_sold": 64,
+          "NI_Hides": 10
+        },
+        "April-26": {
+          "pageviews": 1432,
+          "buylead_approved": 73,
+          "unique_buylead_sold": 62,
+          "NI_Hides": 13
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 55657,
+      "mcat_name": "Baby Cloth Diapers",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2417,
+          "buylead_approved": 263,
+          "unique_buylead_sold": 214,
+          "NI_Hides": 51
+        },
+        "feb-26": {
+          "pageviews": 2383,
+          "buylead_approved": 208,
+          "unique_buylead_sold": 189,
+          "NI_Hides": 31
+        },
+        "Mar-26": {
+          "pageviews": 2169,
+          "buylead_approved": 186,
+          "unique_buylead_sold": 162,
+          "NI_Hides": 52
+        },
+        "April-26": {
+          "pageviews": 2333,
+          "buylead_approved": 181,
+          "unique_buylead_sold": 157,
+          "NI_Hides": 36
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 137678,
+      "mcat_name": "Baby Care Products",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2263,
+          "buylead_approved": 244,
+          "unique_buylead_sold": 133,
+          "NI_Hides": 66
+        },
+        "feb-26": {
+          "pageviews": 1793,
+          "buylead_approved": 185,
+          "unique_buylead_sold": 114,
+          "NI_Hides": 40
+        },
+        "Mar-26": {
+          "pageviews": 2049,
+          "buylead_approved": 189,
+          "unique_buylead_sold": 107,
+          "NI_Hides": 41
+        },
+        "April-26": {
+          "pageviews": 2364,
+          "buylead_approved": 239,
+          "unique_buylead_sold": 136,
+          "NI_Hides": 59
+        }
+      }
+    }
+  },
+  "GLID: 94752428": {
+    "mcat_1": {
+      "mcat_id": 20428,
+      "mcat_name": "Pens",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 4364,
+          "buylead_approved": 353,
+          "unique_buylead_sold": 124,
+          "NI_Hides": 242
+        },
+        "feb-26": {
+          "pageviews": 3915,
+          "buylead_approved": 352,
+          "unique_buylead_sold": 140,
+          "NI_Hides": 164
+        },
+        "Mar-26": {
+          "pageviews": 3818,
+          "buylead_approved": 357,
+          "unique_buylead_sold": 144,
+          "NI_Hides": 240
+        },
+        "April-26": {
+          "pageviews": 3596,
+          "buylead_approved": 346,
+          "unique_buylead_sold": 165,
+          "NI_Hides": 310
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 225374,
+      "mcat_name": "Saroglitazar Tablet",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1822,
+          "buylead_approved": 76,
+          "unique_buylead_sold": 57,
+          "NI_Hides": 36
+        },
+        "feb-26": {
+          "pageviews": 1860,
+          "buylead_approved": 104,
+          "unique_buylead_sold": 82,
+          "NI_Hides": 37
+        },
+        "Mar-26": {
+          "pageviews": 2497,
+          "buylead_approved": 122,
+          "unique_buylead_sold": 85,
+          "NI_Hides": 31
+        },
+        "April-26": {
+          "pageviews": 2418,
+          "buylead_approved": 106,
+          "unique_buylead_sold": 87,
+          "NI_Hides": 30
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 100715014": {
+    "mcat_1": {
+      "mcat_id": 74765,
+      "mcat_name": "MDF Board",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 13319,
+          "buylead_approved": 689,
+          "unique_buylead_sold": 530,
+          "NI_Hides": 288
+        },
+        "feb-26": {
+          "pageviews": 12020,
+          "buylead_approved": 572,
+          "unique_buylead_sold": 453,
+          "NI_Hides": 171
+        },
+        "Mar-26": {
+          "pageviews": 12199,
+          "buylead_approved": 570,
+          "unique_buylead_sold": 426,
+          "NI_Hides": 174
+        },
+        "April-26": {
+          "pageviews": 11778,
+          "buylead_approved": 639,
+          "unique_buylead_sold": 471,
+          "NI_Hides": 513
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 102790576": {
+    "mcat_1": {
+      "mcat_id": 7125,
+      "mcat_name": "Polyester Film",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3492,
+          "buylead_approved": 230,
+          "unique_buylead_sold": 228,
+          "NI_Hides": 185
+        },
+        "feb-26": {
+          "pageviews": 2920,
+          "buylead_approved": 240,
+          "unique_buylead_sold": 228,
+          "NI_Hides": 209
+        },
+        "Mar-26": {
+          "pageviews": 3219,
+          "buylead_approved": 247,
+          "unique_buylead_sold": 242,
+          "NI_Hides": 312
+        },
+        "April-26": {
+          "pageviews": 3599,
+          "buylead_approved": 274,
+          "unique_buylead_sold": 256,
+          "NI_Hides": 179
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 50727,
+      "mcat_name": "Car Graphics",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 704,
+          "buylead_approved": 47,
+          "unique_buylead_sold": 5,
+          "NI_Hides": 1
+        },
+        "feb-26": {
+          "pageviews": 639,
+          "buylead_approved": 39,
+          "unique_buylead_sold": 3,
+          "NI_Hides": 4
+        },
+        "Mar-26": {
+          "pageviews": 739,
+          "buylead_approved": 41,
+          "unique_buylead_sold": 0,
+          "NI_Hides": 3
+        },
+        "April-26": {
+          "pageviews": 635,
+          "buylead_approved": 22,
+          "unique_buylead_sold": 0,
+          "NI_Hides": 4
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 122638416": {
+    "mcat_1": {
+      "mcat_id": 73521,
+      "mcat_name": "Motorcycle Chain and Sprocket Kit",
+      "ni_count": 10,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 11480,
+          "buylead_approved": 553,
+          "unique_buylead_sold": 203,
+          "NI_Hides": 42
+        },
+        "feb-26": {
+          "pageviews": 11184,
+          "buylead_approved": 498,
+          "unique_buylead_sold": 180,
+          "NI_Hides": 59
+        },
+        "Mar-26": {
+          "pageviews": 12084,
+          "buylead_approved": 613,
+          "unique_buylead_sold": 211,
+          "NI_Hides": 85
+        },
+        "April-26": {
+          "pageviews": 10469,
+          "buylead_approved": 565,
+          "unique_buylead_sold": 204,
+          "NI_Hides": 91
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 545,
+      "mcat_name": "HEPA Filters",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 5225,
+          "buylead_approved": 255,
+          "unique_buylead_sold": 255,
+          "NI_Hides": 345
+        },
+        "feb-26": {
+          "pageviews": 4961,
+          "buylead_approved": 180,
+          "unique_buylead_sold": 178,
+          "NI_Hides": 204
+        },
+        "Mar-26": {
+          "pageviews": 3033,
+          "buylead_approved": 153,
+          "unique_buylead_sold": 150,
+          "NI_Hides": 141
+        },
+        "April-26": {
+          "pageviews": 3527,
+          "buylead_approved": 160,
+          "unique_buylead_sold": 159,
+          "NI_Hides": 191
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 187672,
+      "mcat_name": "Air Pre Filter",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 468,
+          "buylead_approved": 24,
+          "unique_buylead_sold": 24,
+          "NI_Hides": 54
+        },
+        "feb-26": {
+          "pageviews": 612,
+          "buylead_approved": 27,
+          "unique_buylead_sold": 26,
+          "NI_Hides": 32
+        },
+        "Mar-26": {
+          "pageviews": 867,
+          "buylead_approved": 36,
+          "unique_buylead_sold": 36,
+          "NI_Hides": 50
+        },
+        "April-26": {
+          "pageviews": 666,
+          "buylead_approved": 41,
+          "unique_buylead_sold": 40,
+          "NI_Hides": 42
+        }
+      }
+    }
+  },
+  "GLID: 125915392": {
+    "mcat_1": {
+      "mcat_id": 25346,
+      "mcat_name": "Data Processing",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 69,
+          "buylead_approved": 12,
+          "unique_buylead_sold": 6,
+          "NI_Hides": 9
+        },
+        "feb-26": {
+          "pageviews": 55,
+          "buylead_approved": 23,
+          "unique_buylead_sold": 13,
+          "NI_Hides": 9
+        },
+        "Mar-26": {
+          "pageviews": 157,
+          "buylead_approved": 14,
+          "unique_buylead_sold": 10,
+          "NI_Hides": 7
+        },
+        "April-26": {
+          "pageviews": 120,
+          "buylead_approved": 21,
+          "unique_buylead_sold": 17,
+          "NI_Hides": 11
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 53174,
+      "mcat_name": "Contact Center Solution",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 64,
+          "buylead_approved": 10,
+          "unique_buylead_sold": 9,
+          "NI_Hides": 9
+        },
+        "feb-26": {
+          "pageviews": 101,
+          "buylead_approved": 9,
+          "unique_buylead_sold": 10,
+          "NI_Hides": 7
+        },
+        "Mar-26": {
+          "pageviews": 118,
+          "buylead_approved": 9,
+          "unique_buylead_sold": 8,
+          "NI_Hides": 13
+        },
+        "April-26": {
+          "pageviews": 127,
+          "buylead_approved": 15,
+          "unique_buylead_sold": 15,
+          "NI_Hides": 15
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 167109,
+      "mcat_name": "IVR Solution",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 244,
+          "buylead_approved": 40,
+          "unique_buylead_sold": 41,
+          "NI_Hides": 39
+        },
+        "feb-26": {
+          "pageviews": 400,
+          "buylead_approved": 41,
+          "unique_buylead_sold": 42,
+          "NI_Hides": 15
+        },
+        "Mar-26": {
+          "pageviews": 518,
+          "buylead_approved": 41,
+          "unique_buylead_sold": 41,
+          "NI_Hides": 20
+        },
+        "April-26": {
+          "pageviews": 490,
+          "buylead_approved": 36,
+          "unique_buylead_sold": 38,
+          "NI_Hides": 24
+        }
+      }
+    }
+  },
+  "GLID: 133216458": {
+    "mcat_1": {
+      "mcat_id": 141,
+      "mcat_name": "Printers for Home",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2966,
+          "buylead_approved": 207,
+          "unique_buylead_sold": 84,
+          "NI_Hides": 75
+        },
+        "feb-26": {
+          "pageviews": 2447,
+          "buylead_approved": 212,
+          "unique_buylead_sold": 83,
+          "NI_Hides": 102
+        },
+        "Mar-26": {
+          "pageviews": 2576,
+          "buylead_approved": 181,
+          "unique_buylead_sold": 90,
+          "NI_Hides": 138
+        },
+        "April-26": {
+          "pageviews": 2633,
+          "buylead_approved": 236,
+          "unique_buylead_sold": 118,
+          "NI_Hides": 158
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 80171,
+      "mcat_name": "Copier Spare Parts",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 8136,
+          "buylead_approved": 554,
+          "unique_buylead_sold": 441,
+          "NI_Hides": 710
+        },
+        "feb-26": {
+          "pageviews": 7739,
+          "buylead_approved": 483,
+          "unique_buylead_sold": 357,
+          "NI_Hides": 433
+        },
+        "Mar-26": {
+          "pageviews": 7353,
+          "buylead_approved": 427,
+          "unique_buylead_sold": 352,
+          "NI_Hides": 400
+        },
+        "April-26": {
+          "pageviews": 6132,
+          "buylead_approved": 390,
+          "unique_buylead_sold": 322,
+          "NI_Hides": 512
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 444621,
+      "mcat_name": "Canon Printer Ink Bottle",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1418,
+          "buylead_approved": 165,
+          "unique_buylead_sold": 139,
+          "NI_Hides": 163
+        },
+        "feb-26": {
+          "pageviews": 2437,
+          "buylead_approved": 214,
+          "unique_buylead_sold": 175,
+          "NI_Hides": 275
+        },
+        "Mar-26": {
+          "pageviews": 1229,
+          "buylead_approved": 146,
+          "unique_buylead_sold": 106,
+          "NI_Hides": 110
+        },
+        "April-26": {
+          "pageviews": 1111,
+          "buylead_approved": 122,
+          "unique_buylead_sold": 93,
+          "NI_Hides": 156
+        }
+      }
+    }
+  },
+  "GLID: 140747895": {
+    "mcat_1": {
+      "mcat_id": 78673,
+      "mcat_name": "Gas Solenoid Valve",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1426,
+          "buylead_approved": 80,
+          "unique_buylead_sold": 80,
+          "NI_Hides": 178
+        },
+        "feb-26": {
+          "pageviews": 1286,
+          "buylead_approved": 82,
+          "unique_buylead_sold": 78,
+          "NI_Hides": 152
+        },
+        "Mar-26": {
+          "pageviews": 1298,
+          "buylead_approved": 83,
+          "unique_buylead_sold": 82,
+          "NI_Hides": 223
+        },
+        "April-26": {
+          "pageviews": 1227,
+          "buylead_approved": 71,
+          "unique_buylead_sold": 72,
+          "NI_Hides": 176
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 149687270": {
+    "mcat_1": {
+      "mcat_id": 181162,
+      "mcat_name": "Honda Activa Scooter",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 25874,
+          "buylead_approved": 795,
+          "unique_buylead_sold": 7,
+          "NI_Hides": 12
+        },
+        "feb-26": {
+          "pageviews": 21994,
+          "buylead_approved": 755,
+          "unique_buylead_sold": 11,
+          "NI_Hides": 9
+        },
+        "Mar-26": {
+          "pageviews": 25674,
+          "buylead_approved": 819,
+          "unique_buylead_sold": 11,
+          "NI_Hides": 22
+        },
+        "April-26": {
+          "pageviews": 21011,
+          "buylead_approved": 681,
+          "unique_buylead_sold": 9,
+          "NI_Hides": 13
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 154973154": {
+    "mcat_1": {
+      "mcat_id": 34906,
+      "mcat_name": "PVC Pipe Machine",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 14066,
+          "buylead_approved": 431,
+          "unique_buylead_sold": 427,
+          "NI_Hides": 135
+        },
+        "feb-26": {
+          "pageviews": 9916,
+          "buylead_approved": 359,
+          "unique_buylead_sold": 366,
+          "NI_Hides": 111
+        },
+        "Mar-26": {
+          "pageviews": 12830,
+          "buylead_approved": 380,
+          "unique_buylead_sold": 379,
+          "NI_Hides": 133
+        },
+        "April-26": {
+          "pageviews": 6761,
+          "buylead_approved": 277,
+          "unique_buylead_sold": 278,
+          "NI_Hides": 78
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 158335939": {
+    "mcat_1": {
+      "mcat_id": 183032,
+      "mcat_name": "Trolley Suitcase",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3462,
+          "buylead_approved": 236,
+          "unique_buylead_sold": 141,
+          "NI_Hides": 39
+        },
+        "feb-26": {
+          "pageviews": 3099,
+          "buylead_approved": 182,
+          "unique_buylead_sold": 100,
+          "NI_Hides": 34
+        },
+        "Mar-26": {
+          "pageviews": 3224,
+          "buylead_approved": 206,
+          "unique_buylead_sold": 118,
+          "NI_Hides": 32
+        },
+        "April-26": {
+          "pageviews": 3303,
+          "buylead_approved": 188,
+          "unique_buylead_sold": 107,
+          "NI_Hides": 29
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 7234,
+      "mcat_name": "Pouch Bags",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3622,
+          "buylead_approved": 307,
+          "unique_buylead_sold": 206,
+          "NI_Hides": 153
+        },
+        "feb-26": {
+          "pageviews": 3197,
+          "buylead_approved": 237,
+          "unique_buylead_sold": 180,
+          "NI_Hides": 231
+        },
+        "Mar-26": {
+          "pageviews": 3315,
+          "buylead_approved": 245,
+          "unique_buylead_sold": 158,
+          "NI_Hides": 387
+        },
+        "April-26": {
+          "pageviews": 3235,
+          "buylead_approved": 205,
+          "unique_buylead_sold": 148,
+          "NI_Hides": 175
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 39401,
+      "mcat_name": "Waist Bag",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 803,
+          "buylead_approved": 70,
+          "unique_buylead_sold": 52,
+          "NI_Hides": 20
+        },
+        "feb-26": {
+          "pageviews": 854,
+          "buylead_approved": 62,
+          "unique_buylead_sold": 47,
+          "NI_Hides": 29
+        },
+        "Mar-26": {
+          "pageviews": 968,
+          "buylead_approved": 55,
+          "unique_buylead_sold": 35,
+          "NI_Hides": 29
+        },
+        "April-26": {
+          "pageviews": 1028,
+          "buylead_approved": 65,
+          "unique_buylead_sold": 49,
+          "NI_Hides": 12
+        }
+      }
+    }
+  },
+  "GLID: 159049366": {
+    "mcat_1": {
+      "mcat_id": 189819,
+      "mcat_name": "Cotton Wick Making Machine",
+      "ni_count": 7,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 17300,
+          "buylead_approved": 1200,
+          "unique_buylead_sold": 1082,
+          "NI_Hides": 103
+        },
+        "feb-26": {
+          "pageviews": 16773,
+          "buylead_approved": 1193,
+          "unique_buylead_sold": 1040,
+          "NI_Hides": 106
+        },
+        "Mar-26": {
+          "pageviews": 16972,
+          "buylead_approved": 1256,
+          "unique_buylead_sold": 1047,
+          "NI_Hides": 110
+        },
+        "April-26": {
+          "pageviews": 14735,
+          "buylead_approved": 1154,
+          "unique_buylead_sold": 1043,
+          "NI_Hides": 162
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 44757,
+      "mcat_name": "Paper Plate Making Machine",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 165311,
+          "buylead_approved": 7064,
+          "unique_buylead_sold": 6650,
+          "NI_Hides": 1336
+        },
+        "feb-26": {
+          "pageviews": 187372,
+          "buylead_approved": 7110,
+          "unique_buylead_sold": 6732,
+          "NI_Hides": 1454
+        },
+        "Mar-26": {
+          "pageviews": 173213,
+          "buylead_approved": 7281,
+          "unique_buylead_sold": 6934,
+          "NI_Hides": 1229
+        },
+        "April-26": {
+          "pageviews": 59546,
+          "buylead_approved": 3099,
+          "unique_buylead_sold": 3036,
+          "NI_Hides": 521
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 159358127": {
+    "mcat_1": {
+      "mcat_id": 20565,
+      "mcat_name": "Solar Street Lights",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 21279,
+          "buylead_approved": 1148,
+          "unique_buylead_sold": 1155,
+          "NI_Hides": 1813
+        },
+        "feb-26": {
+          "pageviews": 30198,
+          "buylead_approved": 1480,
+          "unique_buylead_sold": 1461,
+          "NI_Hides": 3298
+        },
+        "Mar-26": {
+          "pageviews": 24914,
+          "buylead_approved": 1256,
+          "unique_buylead_sold": 1253,
+          "NI_Hides": 2448
+        },
+        "April-26": {
+          "pageviews": 21465,
+          "buylead_approved": 1073,
+          "unique_buylead_sold": 1069,
+          "NI_Hides": 1934
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 181942831": {
+    "mcat_1": {
+      "mcat_id": 88195,
+      "mcat_name": "Portable House",
+      "ni_count": 2,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 17773,
+          "buylead_approved": 656,
+          "unique_buylead_sold": 649,
+          "NI_Hides": 2277
+        },
+        "feb-26": {
+          "pageviews": 22647,
+          "buylead_approved": 936,
+          "unique_buylead_sold": 897,
+          "NI_Hides": 2930
+        },
+        "Mar-26": {
+          "pageviews": 121385,
+          "buylead_approved": 4275,
+          "unique_buylead_sold": 3901,
+          "NI_Hides": 19456
+        },
+        "April-26": {
+          "pageviews": 246788,
+          "buylead_approved": 8185,
+          "unique_buylead_sold": 6317,
+          "NI_Hides": 35238
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 145222,
+      "mcat_name": "Poultry Sheds",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 9834,
+          "buylead_approved": 489,
+          "unique_buylead_sold": 481,
+          "NI_Hides": 401
+        },
+        "feb-26": {
+          "pageviews": 8375,
+          "buylead_approved": 406,
+          "unique_buylead_sold": 391,
+          "NI_Hides": 285
+        },
+        "Mar-26": {
+          "pageviews": 7395,
+          "buylead_approved": 356,
+          "unique_buylead_sold": 343,
+          "NI_Hides": 329
+        },
+        "April-26": {
+          "pageviews": 6006,
+          "buylead_approved": 325,
+          "unique_buylead_sold": 306,
+          "NI_Hides": 209
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 182264394": {
+    "mcat_1": {
+      "mcat_id": 280391,
+      "mcat_name": "Pain Relief Patch",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2728,
+          "buylead_approved": 253,
+          "unique_buylead_sold": 151,
+          "NI_Hides": 124
+        },
+        "feb-26": {
+          "pageviews": 2766,
+          "buylead_approved": 238,
+          "unique_buylead_sold": 136,
+          "NI_Hides": 139
+        },
+        "Mar-26": {
+          "pageviews": 3387,
+          "buylead_approved": 281,
+          "unique_buylead_sold": 144,
+          "NI_Hides": 148
+        },
+        "April-26": {
+          "pageviews": 3215,
+          "buylead_approved": 247,
+          "unique_buylead_sold": 122,
+          "NI_Hides": 71
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 191681976": {
+    "mcat_1": {
+      "mcat_id": 279058,
+      "mcat_name": "Mifepristone Misoprostol Tablet",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 106497,
+          "buylead_approved": 10475,
+          "unique_buylead_sold": 1904,
+          "NI_Hides": 1115
+        },
+        "feb-26": {
+          "pageviews": 102444,
+          "buylead_approved": 9977,
+          "unique_buylead_sold": 1596,
+          "NI_Hides": 848
+        },
+        "Mar-26": {
+          "pageviews": 106226,
+          "buylead_approved": 10476,
+          "unique_buylead_sold": 1757,
+          "NI_Hides": 1116
+        },
+        "April-26": {
+          "pageviews": 76854,
+          "buylead_approved": 7999,
+          "unique_buylead_sold": 1721,
+          "NI_Hides": 1788
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 201945118": {
+    "mcat_1": {
+      "mcat_id": 96553,
+      "mcat_name": "Allopathic Immunity Booster",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2307,
+          "buylead_approved": 146,
+          "unique_buylead_sold": 69,
+          "NI_Hides": 83
+        },
+        "feb-26": {
+          "pageviews": 2537,
+          "buylead_approved": 141,
+          "unique_buylead_sold": 63,
+          "NI_Hides": 49
+        },
+        "Mar-26": {
+          "pageviews": 2369,
+          "buylead_approved": 151,
+          "unique_buylead_sold": 68,
+          "NI_Hides": 53
+        },
+        "April-26": {
+          "pageviews": 2341,
+          "buylead_approved": 133,
+          "unique_buylead_sold": 43,
+          "NI_Hides": 46
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 227344017": {
+    "mcat_1": {
+      "mcat_id": 27245,
+      "mcat_name": "Electric Drill",
+      "ni_count": 13,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3113,
+          "buylead_approved": 170,
+          "unique_buylead_sold": 64,
+          "NI_Hides": 126
+        },
+        "feb-26": {
+          "pageviews": 3100,
+          "buylead_approved": 206,
+          "unique_buylead_sold": 73,
+          "NI_Hides": 107
+        },
+        "Mar-26": {
+          "pageviews": 3076,
+          "buylead_approved": 251,
+          "unique_buylead_sold": 92,
+          "NI_Hides": 135
+        },
+        "April-26": {
+          "pageviews": 2985,
+          "buylead_approved": 212,
+          "unique_buylead_sold": 91,
+          "NI_Hides": 46
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 2915,
+      "mcat_name": "Table Saw",
+      "ni_count": 10,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3103,
+          "buylead_approved": 184,
+          "unique_buylead_sold": 126,
+          "NI_Hides": 27
+        },
+        "feb-26": {
+          "pageviews": 2353,
+          "buylead_approved": 151,
+          "unique_buylead_sold": 112,
+          "NI_Hides": 25
+        },
+        "Mar-26": {
+          "pageviews": 2431,
+          "buylead_approved": 163,
+          "unique_buylead_sold": 123,
+          "NI_Hides": 20
+        },
+        "April-26": {
+          "pageviews": 2409,
+          "buylead_approved": 143,
+          "unique_buylead_sold": 110,
+          "NI_Hides": 14
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 26294,
+      "mcat_name": "Demolition Hammer",
+      "ni_count": 8,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 11124,
+          "buylead_approved": 657,
+          "unique_buylead_sold": 412,
+          "NI_Hides": 102
+        },
+        "feb-26": {
+          "pageviews": 11529,
+          "buylead_approved": 623,
+          "unique_buylead_sold": 360,
+          "NI_Hides": 49
+        },
+        "Mar-26": {
+          "pageviews": 11552,
+          "buylead_approved": 583,
+          "unique_buylead_sold": 350,
+          "NI_Hides": 147
+        },
+        "April-26": {
+          "pageviews": 10763,
+          "buylead_approved": 570,
+          "unique_buylead_sold": 359,
+          "NI_Hides": 107
+        }
+      }
+    }
+  },
+  "GLID: 236621512": {
+    "mcat_1": {
+      "mcat_id": 278486,
+      "mcat_name": "Promethazine Hydrochloride Syrup",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2856,
+          "buylead_approved": 248,
+          "unique_buylead_sold": 218,
+          "NI_Hides": 749
+        },
+        "feb-26": {
+          "pageviews": 2842,
+          "buylead_approved": 226,
+          "unique_buylead_sold": 195,
+          "NI_Hides": 594
+        },
+        "Mar-26": {
+          "pageviews": 3035,
+          "buylead_approved": 234,
+          "unique_buylead_sold": 193,
+          "NI_Hides": 795
+        },
+        "April-26": {
+          "pageviews": 2683,
+          "buylead_approved": 216,
+          "unique_buylead_sold": 200,
+          "NI_Hides": 626
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 11203,
+      "mcat_name": "Cough Syrup",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 14702,
+          "buylead_approved": 658,
+          "unique_buylead_sold": 414,
+          "NI_Hides": 913
+        },
+        "feb-26": {
+          "pageviews": 11793,
+          "buylead_approved": 483,
+          "unique_buylead_sold": 296,
+          "NI_Hides": 698
+        },
+        "Mar-26": {
+          "pageviews": 10841,
+          "buylead_approved": 445,
+          "unique_buylead_sold": 303,
+          "NI_Hides": 843
+        },
+        "April-26": {
+          "pageviews": 7857,
+          "buylead_approved": 374,
+          "unique_buylead_sold": 258,
+          "NI_Hides": 790
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 179987,
+      "mcat_name": "Bacteriostatic Water",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2521,
+          "buylead_approved": 237,
+          "unique_buylead_sold": 152,
+          "NI_Hides": 119
+        },
+        "feb-26": {
+          "pageviews": 2753,
+          "buylead_approved": 249,
+          "unique_buylead_sold": 156,
+          "NI_Hides": 103
+        },
+        "Mar-26": {
+          "pageviews": 4308,
+          "buylead_approved": 364,
+          "unique_buylead_sold": 175,
+          "NI_Hides": 118
+        },
+        "April-26": {
+          "pageviews": 5699,
+          "buylead_approved": 586,
+          "unique_buylead_sold": 377,
+          "NI_Hides": 784
+        }
+      }
+    }
+  },
+  "GLID: 241955244": {
+    "mcat_1": {
+      "mcat_id": 129249,
+      "mcat_name": "Caps",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 6481,
+          "buylead_approved": 292,
+          "unique_buylead_sold": 188,
+          "NI_Hides": 76
+        },
+        "feb-26": {
+          "pageviews": 3393,
+          "buylead_approved": 325,
+          "unique_buylead_sold": 226,
+          "NI_Hides": 68
+        },
+        "Mar-26": {
+          "pageviews": 4464,
+          "buylead_approved": 328,
+          "unique_buylead_sold": 240,
+          "NI_Hides": 112
+        },
+        "April-26": {
+          "pageviews": 4013,
+          "buylead_approved": 323,
+          "unique_buylead_sold": 237,
+          "NI_Hides": 74
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 179987,
+      "mcat_name": "Bacteriostatic Water",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2521,
+          "buylead_approved": 237,
+          "unique_buylead_sold": 152,
+          "NI_Hides": 119
+        },
+        "feb-26": {
+          "pageviews": 2753,
+          "buylead_approved": 249,
+          "unique_buylead_sold": 156,
+          "NI_Hides": 103
+        },
+        "Mar-26": {
+          "pageviews": 4308,
+          "buylead_approved": 364,
+          "unique_buylead_sold": 175,
+          "NI_Hides": 118
+        },
+        "April-26": {
+          "pageviews": 5699,
+          "buylead_approved": 586,
+          "unique_buylead_sold": 377,
+          "NI_Hides": 784
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 445775,
+      "mcat_name": "Sexual Oil",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 7750,
+          "buylead_approved": 464,
+          "unique_buylead_sold": 224,
+          "NI_Hides": 161
+        },
+        "feb-26": {
+          "pageviews": 8144,
+          "buylead_approved": 459,
+          "unique_buylead_sold": 196,
+          "NI_Hides": 36
+        },
+        "Mar-26": {
+          "pageviews": 8304,
+          "buylead_approved": 515,
+          "unique_buylead_sold": 172,
+          "NI_Hides": 49
+        },
+        "April-26": {
+          "pageviews": 7550,
+          "buylead_approved": 611,
+          "unique_buylead_sold": 227,
+          "NI_Hides": 55
+        }
+      }
+    }
+  },
+  "GLID: 246100104": {
+    "mcat_1": {
+      "mcat_id": 179987,
+      "mcat_name": "Bacteriostatic Water",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 2521,
+          "buylead_approved": 237,
+          "unique_buylead_sold": 152,
+          "NI_Hides": 119
+        },
+        "feb-26": {
+          "pageviews": 2753,
+          "buylead_approved": 249,
+          "unique_buylead_sold": 156,
+          "NI_Hides": 103
+        },
+        "Mar-26": {
+          "pageviews": 4308,
+          "buylead_approved": 364,
+          "unique_buylead_sold": 175,
+          "NI_Hides": 118
+        },
+        "April-26": {
+          "pageviews": 5699,
+          "buylead_approved": 586,
+          "unique_buylead_sold": 377,
+          "NI_Hides": 784
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 249818131": {
+    "mcat_1": {
+      "mcat_id": 446141,
+      "mcat_name": "Vortioxetine Tablet",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 636,
+          "buylead_approved": 27,
+          "unique_buylead_sold": 17,
+          "NI_Hides": 25
+        },
+        "feb-26": {
+          "pageviews": 638,
+          "buylead_approved": 25,
+          "unique_buylead_sold": 18,
+          "NI_Hides": 29
+        },
+        "Mar-26": {
+          "pageviews": 801,
+          "buylead_approved": 26,
+          "unique_buylead_sold": 15,
+          "NI_Hides": 39
+        },
+        "April-26": {
+          "pageviews": 709,
+          "buylead_approved": 37,
+          "unique_buylead_sold": 24,
+          "NI_Hides": 90
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 253462172": {
+    "mcat_1": {
+      "mcat_id": 393,
+      "mcat_name": "Corporate Gifts",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 16600,
+          "buylead_approved": 1001,
+          "unique_buylead_sold": 878,
+          "NI_Hides": 1380
+        },
+        "feb-26": {
+          "pageviews": 15581,
+          "buylead_approved": 811,
+          "unique_buylead_sold": 710,
+          "NI_Hides": 1090
+        },
+        "Mar-26": {
+          "pageviews": 13496,
+          "buylead_approved": 781,
+          "unique_buylead_sold": 658,
+          "NI_Hides": 1095
+        },
+        "April-26": {
+          "pageviews": 11932,
+          "buylead_approved": 739,
+          "unique_buylead_sold": 660,
+          "NI_Hides": 1044
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  },
+  "GLID: 257977507": {
+    "mcat_1": {
+      "mcat_id": 180204,
+      "mcat_name": "Human Growth Hormone Injection",
+      "ni_count": 6,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 23219,
+          "buylead_approved": 1025,
+          "unique_buylead_sold": 943,
+          "NI_Hides": 1589
+        },
+        "feb-26": {
+          "pageviews": 23318,
+          "buylead_approved": 980,
+          "unique_buylead_sold": 884,
+          "NI_Hides": 1983
+        },
+        "Mar-26": {
+          "pageviews": 23891,
+          "buylead_approved": 1114,
+          "unique_buylead_sold": 1004,
+          "NI_Hides": 2379
+        },
+        "April-26": {
+          "pageviews": 23560,
+          "buylead_approved": 1217,
+          "unique_buylead_sold": 1078,
+          "NI_Hides": 2816
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 166960,
+      "mcat_name": "Oxandrolone Tablets",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 20760,
+          "buylead_approved": 854,
+          "unique_buylead_sold": 723,
+          "NI_Hides": 299
+        },
+        "feb-26": {
+          "pageviews": 20334,
+          "buylead_approved": 830,
+          "unique_buylead_sold": 708,
+          "NI_Hides": 410
+        },
+        "Mar-26": {
+          "pageviews": 24039,
+          "buylead_approved": 1020,
+          "unique_buylead_sold": 830,
+          "NI_Hides": 514
+        },
+        "April-26": {
+          "pageviews": 22831,
+          "buylead_approved": 1036,
+          "unique_buylead_sold": 861,
+          "NI_Hides": 860
+        }
+      }
+    },
+    "mcat_3": {
+      "mcat_id": 445776,
+      "mcat_name": "Sildenafil Oral Jelly",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 19220,
+          "buylead_approved": 1068,
+          "unique_buylead_sold": 970,
+          "NI_Hides": 773
+        },
+        "feb-26": {
+          "pageviews": 17842,
+          "buylead_approved": 949,
+          "unique_buylead_sold": 871,
+          "NI_Hides": 473
+        },
+        "Mar-26": {
+          "pageviews": 18963,
+          "buylead_approved": 1115,
+          "unique_buylead_sold": 1019,
+          "NI_Hides": 900
+        },
+        "April-26": {
+          "pageviews": 17393,
+          "buylead_approved": 1064,
+          "unique_buylead_sold": 934,
+          "NI_Hides": 946
+        }
+      }
+    }
+  },
+  "GLID: 259179185": {
+    "mcat_1": {
+      "mcat_id": 39466,
+      "mcat_name": "Waterproof Tarpaulins",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 10289,
+          "buylead_approved": 329,
+          "unique_buylead_sold": 325,
+          "NI_Hides": 197
+        },
+        "feb-26": {
+          "pageviews": 15383,
+          "buylead_approved": 308,
+          "unique_buylead_sold": 290,
+          "NI_Hides": 406
+        },
+        "Mar-26": {
+          "pageviews": 22741,
+          "buylead_approved": 634,
+          "unique_buylead_sold": 547,
+          "NI_Hides": 610
+        },
+        "April-26": {
+          "pageviews": 11886,
+          "buylead_approved": 892,
+          "unique_buylead_sold": 560,
+          "NI_Hides": 534
+        }
+      }
+    },
+    "mcat_2": {
+      "mcat_id": 221292,
+      "mcat_name": "PVC Coated Tarpaulin",
+      "ni_count": 1,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 1453,
+          "buylead_approved": 103,
+          "unique_buylead_sold": 102,
+          "NI_Hides": 40
+        },
+        "feb-26": {
+          "pageviews": 1468,
+          "buylead_approved": 123,
+          "unique_buylead_sold": 112,
+          "NI_Hides": 75
+        },
+        "Mar-26": {
+          "pageviews": 1989,
+          "buylead_approved": 171,
+          "unique_buylead_sold": 142,
+          "NI_Hides": 80
+        },
+        "April-26": {
+          "pageviews": 2469,
+          "buylead_approved": 244,
+          "unique_buylead_sold": 194,
+          "NI_Hides": 68
+        }
+      }
+    },
+    "mcat_3": null
+  },
+  "GLID: 259955811": {
+    "mcat_1": {
+      "mcat_id": 7373,
+      "mcat_name": "Night Suits",
+      "ni_count": 3,
+      "monthly_data": {
+        "Jan-26": {
+          "pageviews": 3967,
+          "buylead_approved": 242,
+          "unique_buylead_sold": 211,
+          "NI_Hides": 30
+        },
+        "feb-26": {
+          "pageviews": 4081,
+          "buylead_approved": 218,
+          "unique_buylead_sold": 186,
+          "NI_Hides": 38
+        },
+        "Mar-26": {
+          "pageviews": 5233,
+          "buylead_approved": 322,
+          "unique_buylead_sold": 253,
+          "NI_Hides": 41
+        },
+        "April-26": {
+          "pageviews": 5553,
+          "buylead_approved": 320,
+          "unique_buylead_sold": 231,
+          "NI_Hides": 37
+        }
+      }
+    },
+    "mcat_2": null,
+    "mcat_3": null
+  }
+}

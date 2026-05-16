@@ -1,0 +1,8 @@
+{
+  "name": "IndiaMART Seller Satisfaction Dashboard",
+  "description": "An AI-powered dashboard to analyze seller health, customer satisfaction, and churn risk using IndiaMART seller data and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
