@@ -47,7 +47,6 @@ import {
 } from 'recharts';
 import { fetchSellerDetails, analyzeSeller } from '../services/api';
 import { useAuth } from '../context/AuthContext';
-import { AISkillsConsole } from '../components/AISkillsConsole';
 
 // --- Types ---
 
@@ -1003,12 +1002,6 @@ export const Dashboard = () => {
                       </div>
                     ))}
                   </div>
-                </div>
-
-                {/* AI Agent Skills Console */}
-                <div className="relative">
-                  <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-[2.5rem] blur opacity-10" />
-                  <AISkillsConsole sellerData={data} />
                 </div>
 
                 {/* Ticket Details */}
