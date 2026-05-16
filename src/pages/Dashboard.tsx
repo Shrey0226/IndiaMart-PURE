@@ -581,6 +581,47 @@ const GaugeIndicator = ({
 
 // --- MCAT Monthly Performance Components ---
 
+const getMcatIntelligence = (monthlyData: MonthlyData) => {
+  const months = Object.values(monthlyData);
+  if (months.length === 0) return { demand: 'Low', alignment: 'Unknown', opportunity: 'Watch', insight: 'Insufficient data for analysis' };
+
+  const avgApproved = months.reduce((acc, m) => acc + m.buylead_approved, 0) / months.length;
+  const avgSold = months.reduce((acc, m) => acc + m.unique_buylead_sold, 0) / months.length;
+  const alignmentRatio = avgApproved > 0 ? avgSold / avgApproved : 0;
+
+  // Demand Level
+  let demand: 'Strong' | 'Average' | 'Emerging' = 'Emerging';
+  if (avgApproved > 300) demand = 'Strong';
+  else if (avgApproved > 100) demand = 'Average';
+
+  // Alignment (Supply vs Demand)
+  let alignment: 'High' | 'Partial' | 'Weak' = 'Partial';
+  if (alignmentRatio > 0.6) alignment = 'High';
+  else if (alignmentRatio < 0.25) alignment = 'Weak';
+
+  // Growth & Action
+  let opportunity: 'Scale' | 'Optimize' | 'Aggressive' | 'Watch' = 'Watch';
+  let insight = '';
+
+  if (demand === 'Strong' && alignment === 'Weak') {
+    opportunity = 'Aggressive';
+    insight = 'Extreme high traffic but low capture. Massive missed opportunity.';
+  } else if (demand === 'Strong' && alignment === 'Partial') {
+    opportunity = 'Scale';
+    insight = 'High traffic potential. Increase credit allocation to capture lead volume.';
+  } else if (alignment === 'Weak') {
+    opportunity = 'Optimize';
+    insight = 'Low lead utilization. Review pricing or catalog quality to align with market.';
+  } else if (demand === 'Emerging' && alignment === 'High') {
+    opportunity = 'Watch';
+    insight = 'Niche but efficient. Monitor for traffic spikes.';
+  } else {
+    insight = 'Steady alignment. Maintain consistent credit injection.';
+  }
+
+  return { demand, avgApproved, alignment, alignmentRatio, opportunity, insight };
+};
+
 const McatTrendGraph = ({ monthlyData }: { monthlyData: MonthlyData }) => {
   const data = Object.entries(monthlyData).map(([month, metrics]) => ({
     name: month.split('-')[0], // Just the month part for X-axis
@@ -998,35 +1039,70 @@ export const Dashboard = () => {
                 {/* Preferred MCAT monthly performance Analysis */}
                 <div className="bg-white p-6 rounded-3xl border border-slate-100 shadow-sm">
                   <SectionHeader title="Preferred MCAT monthly performance Analysis" subtitle="Trend based demand monitoring" icon={Activity} />
-                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    {data.mcats.map((mcat: McatData) => (
-                      <div key={mcat.mcat_id} className="p-5 rounded-[2rem] bg-slate-50 border border-slate-100 relative group overflow-hidden hover:border-orange-200 transition-all">
-                        <div className="absolute top-0 right-0 w-24 h-24 bg-orange-500/5 blur-2xl -mr-10 -mt-10 group-hover:bg-orange-500/10 transition-all" />
-                        <div className="flex justify-between items-start mb-2 relative z-10">
-                          <div className="flex-1">
-                            <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1">ID: #{mcat.mcat_id}</p>
-                            <h4 className="text-sm font-black text-slate-800 leading-tight pr-4">{mcat.mcat_name}</h4>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {data.mcats.map((mcat: McatData) => {
+                      const intel = getMcatIntelligence(mcat.monthly_data);
+                      return (
+                        <div key={mcat.mcat_id} className="p-6 rounded-[2.5rem] bg-slate-50 border border-slate-100 relative group overflow-hidden hover:border-orange-200 transition-all shadow-sm">
+                          <div className="absolute top-0 right-0 w-32 h-32 bg-orange-500/5 blur-3xl -mr-16 -mt-16 group-hover:bg-orange-500/10 transition-all" />
+                          
+                          <div className="flex justify-between items-start mb-4 relative z-10">
+                            <div className="flex-1">
+                              <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1">MCAT ID: #{mcat.mcat_id}</p>
+                              <h4 className="text-base font-black text-slate-800 leading-tight pr-4">{mcat.mcat_name}</h4>
+                            </div>
+                            <button 
+                              onClick={() => setSelectedMcat(mcat)}
+                              className="bg-white p-2.5 rounded-2xl shadow-sm text-slate-400 hover:text-orange-500 hover:scale-110 transition-all border border-slate-100"
+                            >
+                              <Maximize2 size={18} />
+                            </button>
                           </div>
-                          <button 
-                            onClick={() => setSelectedMcat(mcat)}
-                            className="bg-white p-2 rounded-xl shadow-sm text-slate-400 hover:text-orange-500 hover:scale-110 transition-all border border-slate-50"
-                          >
-                            <Maximize2 size={16} />
-                          </button>
+
+                          <div className="grid grid-cols-3 gap-2 mb-6 relative z-10">
+                            <div className="bg-white p-2.5 rounded-2xl border border-slate-100 text-center">
+                              <p className="text-[8px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1.5">Demand</p>
+                              <span className={`text-[10px] font-black px-2 py-0.5 rounded-full ${
+                                intel.demand === 'Strong' ? 'bg-blue-100 text-blue-600' : 
+                                intel.demand === 'Average' ? 'bg-slate-200 text-slate-600' : 'bg-slate-100 text-slate-400'
+                              }`}>
+                                {intel.demand}
+                              </span>
+                            </div>
+                            <div className="bg-white p-2.5 rounded-2xl border border-slate-100 text-center">
+                              <p className="text-[8px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1.5">Alignment</p>
+                              <span className={`text-[10px] font-black px-2 py-0.5 rounded-full ${
+                                intel.alignment === 'High' ? 'bg-emerald-100 text-emerald-600' : 
+                                intel.alignment === 'Partial' ? 'bg-amber-100 text-amber-600' : 'bg-red-100 text-red-600'
+                              }`}>
+                                {intel.alignment}
+                              </span>
+                            </div>
+                            <div className="bg-white p-2.5 rounded-2xl border border-slate-100 text-center">
+                              <p className="text-[8px] font-black text-slate-400 uppercase tracking-widest leading-none mb-1.5">Action</p>
+                              <span className={`text-[10px] font-black px-2 py-0.5 rounded-full ${
+                                intel.opportunity === 'Aggressive' || intel.opportunity === 'Scale' ? 'bg-orange-600 text-white' : 
+                                'bg-slate-100 text-slate-600'
+                              }`}>
+                                {intel.opportunity}
+                              </span>
+                            </div>
+                          </div>
+
+                          <McatTrendGraph monthlyData={mcat.monthly_data} />
+
+                          <div className="mt-4 p-4 rounded-2xl bg-white/50 border border-slate-100 relative z-10 h-20 flex flex-col justify-center">
+                             <div className="flex items-center gap-2 mb-1.5">
+                                <Zap size={12} className="text-orange-500 fill-orange-500" />
+                                <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Market Strategy</span>
+                             </div>
+                             <p className="text-[11px] font-medium text-slate-600 leading-tight">
+                               {intel.insight}
+                             </p>
+                          </div>
                         </div>
-                        <McatTrendGraph monthlyData={mcat.monthly_data} />
-                        <div className="mt-4 flex items-center justify-between relative z-10">
-                           <div className="flex items-center gap-1">
-                              <div className="w-1.5 h-1.5 rounded-full bg-blue-500" />
-                              <span className="text-[9px] font-bold text-slate-400 uppercase">Unique BL sold</span>
-                           </div>
-                           <div className="flex items-center gap-1">
-                              <div className="w-1.5 h-1.5 rounded-full bg-orange-500" />
-                              <span className="text-[9px] font-bold text-slate-400 uppercase">BL approved</span>
-                           </div>
-                        </div>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </div>
 
